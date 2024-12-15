@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/transitive-bullshit/linkedin-api.git"
+    "url": "git+https://github.com/kashishgupta1990/linkedin-api-extend.git"
   },
   "packageManager": "pnpm@9.12.3",
   "engines": {
