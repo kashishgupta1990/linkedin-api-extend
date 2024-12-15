@@ -2,7 +2,7 @@
   "name": "linkedin-api-fetch-extend",
   "version": "1.0.0",
   "description": "TypeScript client for LinkedIn's unofficial API.",
-  "author": "Travis Fischer <travis@transitivebullsh.it>",
+  "author": "Kashish Gupta <kashishguptatech@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

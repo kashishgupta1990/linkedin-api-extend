@@ -145,8 +145,4 @@ This library is not endorsed or supported by LinkedIn. It is an unofficial libra
 
 ## License
 
-MIT © [Travis Fischer](https://x.com/transitive_bs)
-
 This package is a TypeScript port of the popular [Python linkedin-api](https://github.com/tomquirk/linkedin-api).
-
-If you found this project helpful, please consider starring it and [following me on Twitter](https://x.com/transitive_bs).
